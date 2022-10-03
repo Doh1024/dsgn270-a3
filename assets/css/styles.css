@@ -1,0 +1,25 @@
+svg{
+  max-width: 50vw;
+}
+/*--------------------Variation 1---------------------*/
+.frame:hover{
+  fill:orange;
+}
+
+.texts1, .texts{
+  fill:#FF8353;
+}
+/*----------------------------------------------------*/
+
+/*-----------how i would style 2nd variation----------
+.frame2:hover{
+  fill: #f08080;
+}
+.mouth{
+  fill: red;
+}
+
+.text-eyes{
+  fill: black;
+}
+----------------------------------------------------*/
